@@ -8,8 +8,21 @@ permalink: /members/
 
 | Name            | Nickname |
 | :--------------:|:--------:|
-|        -        |          |        
-|        -        |        - |       
+|   Francisco     | hypercisions |        
+|       Eduardo   |   s       |   
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+|                 |          | 
+
 
 
 
