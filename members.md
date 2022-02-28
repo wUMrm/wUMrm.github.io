@@ -6,9 +6,9 @@ permalink: /members/
 
 ### Active Members
 
-| **Name** | **Nickname** |
+| **Name**                               | **Nickname** |
 |:---:|:---:|
-| Francisco | &nbsp;hypercisions |
+| Francisco                            | &nbsp;hypercisions |
 | Eduardo | s4nkx0k |
 | Álvaro |  |
 | Mariana | kikloki |
