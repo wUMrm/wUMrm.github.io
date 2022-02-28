@@ -6,8 +6,16 @@ permalink: /members/
 
 ### Active Members
 
-A - A
+| Name            | Nickname |
+| :--------------:|:--------:|
+|        -        |          |        
+|        -        |        - |       
+
+
 
 ### Old Members
 
-A - A
+| Name            | Nickname |
+| :--------------:|:--------:|
+|        -        |    -     |        
+|        -        |    -     |       
