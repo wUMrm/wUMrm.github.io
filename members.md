@@ -11,7 +11,7 @@ permalink: /members/
 |   Francisco     |  hypercisions |        
 |    Eduardo      |   s4nkx0k     |   
 |    Álvaro       |               |  
-|    Mariana      |               | 
+|    Mariana      |    kikloki    | 
 |    Matilde      |               | 
 |                 |               | 
 |                 |               | 
