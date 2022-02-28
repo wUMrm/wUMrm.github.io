@@ -8,7 +8,7 @@ permalink: /members/
 
 | **Name** | **Nickname** |
 |:---:|:---:|
-| Francisco | hypercisions |
+| Francisco | &nbsp;hypercisions |
 | Eduardo | s4nkx0k |
 | Álvaro |  |
 | Mariana | kikloki |
