@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are a CTF team, from [University of Minho](https://www.uminho.pt). 🇵🇹
 
-### More Information
+You can find us on the [ctftime.org](https://ctftime.org/team/83433)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### For more information [contact us](mailto:wumrmteam@pm.me)
