@@ -9,7 +9,7 @@ permalink: /members/
 | Name            | Nickname |
 | :--------------:|:--------:|
 |   Francisco     | hypercisions |        
-|       Eduardo   |   s       |   
+|    Eduardo      |   s4nkx0k       |   
 |                 |          | 
 |                 |          | 
 |                 |          | 
