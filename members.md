@@ -22,3 +22,10 @@ permalink: /members/
 |                 |               | 
 |                 |               | 
 |                 |               |  
+
+
+| Name  	     |  Nickname 	|   	
+|---	         |---	        |
+|   Francisco	 |    hypercisions        |   	
+|   	         |   	        |  
+|           	 |   	        |  
