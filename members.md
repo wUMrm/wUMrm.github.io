@@ -6,29 +6,19 @@ permalink: /members/
 
 ### Active Members
 
-| Name            | Nickname |
-| :--------------:|:--------:|
-|   Francisco     | hypercisions |        
-|    Eduardo      |   s4nkx0k       |   
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-|                 |          | 
-
-
-
-
-### Old Members
-
-| Name            | Nickname |
-| :--------------:|:--------:|
-|        -        |    -     |        
-|        -        |    -     |       
+| Name            |   Nickname    |
+| :--------------:|:-------------:|
+|   Francisco     |  hypercisions |        
+|    Eduardo      |   s4nkx0k     |   
+|    Álvaro       |               |  
+|    Mariana      |               | 
+|    Matilde      |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               | 
+|                 |               |  
