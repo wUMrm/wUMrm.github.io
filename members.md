@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Members
 permalink: /members/
 ---
 
-### Active Members
+# Active Members
 
 | **Name** | **Nickname** |
 |:---:|:---:|
@@ -14,6 +13,21 @@ permalink: /members/
 | Mariana | kikloki |
 | Matilde |  |
 | Leonardo | Walker19 |
+|  |  |
+|  |  |
+|  |  |
+
+
+# "Retired" Members
+
+| **Name** | **Nickname** |
+|:---:|:---:|
+| Eduarda | hb04ei8 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
