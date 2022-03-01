@@ -9,6 +9,7 @@ permalink: /members/
 |:---:|:---:|
 | Francisco | &nbsp;hypercisions |
 | Eduardo | s4nkx0k |
+| Jorge | s1nj0r0 |
 | Álvaro | 1b80xwl0g1c |
 | Mariana | kikloki |
 | Matilde |  |
