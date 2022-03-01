@@ -1,6 +1,6 @@
 ---
 layout: page
-title: esta é dos Posts
+title: Posts
 permalink: /posts/
 ---
 
