@@ -13,6 +13,6 @@ The only _necessary conditions_ are: to be a student or an alumni of the Univers
 
 
  
- To join us, just fill this [form](https://wumrm.typeform.com/to/aG32tq), and we take care of the rest. 😎
+ To join us, just fill this [form](https://wumrm.typeform.com/to/aG32tq){:target="_blank"}, and we take care of the rest. 😎
 
 
