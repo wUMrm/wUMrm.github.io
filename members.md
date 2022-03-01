@@ -11,7 +11,7 @@ permalink: /members/
 | Eduardo | s4nkx0k |
 | Álvaro | 1b80xwl0g1c |
 | Mariana | kikloki |
-| Matilde |  |
+| Matilde | matildeopbravo |
 | Leonardo | Walker19 |
 |  |  |
 |  |  |
