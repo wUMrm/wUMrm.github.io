@@ -9,7 +9,7 @@ Our team was created in 2018, but only in 2019 it really started participating i
 
 You can find us here too: [ctftime.org](https://ctftime.org/team/83433).
 
-If you are interested, 
+If you are interested, you can [Join us]({{< relref "/joinus" >}}).
  
 --
 For more information, feel free to [contact us](mailto:wumrmteam@pm.me).
