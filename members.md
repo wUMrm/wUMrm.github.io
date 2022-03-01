@@ -5,7 +5,7 @@ permalink: /members/
 
 # Active Members
 
-| **Name** | **Nickname** |
+| **Name** | **1337 name** |
 |:---:|:---:|
 | Francisco | &nbsp;hypercisions |
 | Eduardo | s4nkx0k |
@@ -20,7 +20,7 @@ permalink: /members/
 
 # "Retired" Members
 
-| **Name** | **Nickname** |
+| **Name** | **1337 name** |
 |:---:|:---:|
 | Eduarda | hb04ei8 |
 |  |  |
