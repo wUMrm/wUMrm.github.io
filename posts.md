@@ -1,6 +1,9 @@
 ---
-layout: posts
+layout: page
+title: Posts
+permalink: /posts/
 ---
+
 
 <div class="posts">
   {% for post in site.posts %}
