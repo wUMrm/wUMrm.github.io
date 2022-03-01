@@ -5,6 +5,7 @@ permalink: /posts/
 ---
 
 
+-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -19,3 +20,4 @@ permalink: /posts/
     </article>
   {% endfor %}
 </div>
+-
