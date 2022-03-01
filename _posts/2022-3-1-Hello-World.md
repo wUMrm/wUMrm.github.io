@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /blog/
-### title: First one!
+title: First one!
 ---
 
 Hello World!
