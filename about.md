@@ -9,4 +9,4 @@ We are a CTF team, from [University of Minho](https://www.uminho.pt). 🇵🇹
 You can find here: [ctftime.org](https://ctftime.org/team/83433).
  
 --
-For more information [contact us](mailto:wumrmteam@pm.me)
+For more information, feel free to [contact us](mailto:wumrmteam@pm.me).
