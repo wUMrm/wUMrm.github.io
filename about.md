@@ -12,7 +12,7 @@ You can find us here too: [ctftime.org](https://ctftime.org/team/83433).
 If you are interested, you can [Join us](/joinus).
 
 
-#### "Last but not least", we'd like to thank to everyone who has helped us along the way (and still does) - with no particular order:
+#### "Last but not least", we'd like to thank to everyone who has helped us along the way - and still does:
 - University of Minho (especially the (staff from the) Information Systems Department and the (staff from the) Informatics Department);
 - Professor David Brumley;
 - STT (CTF team);
