@@ -7,8 +7,13 @@ permalink: /about/
 We are wUMrm, a Capture The Flag (CTF) team, from [University of Minho](https://www.uminho.pt). 🇵🇹   
 Our team was created in 2018, but only in 2019 it really started participating in CTFs.
 
+<br />
 
 You can find us here too: [ctftime.org](https://ctftime.org/team/83433).
+
+
+<br />
+
 
 If you are interested in security, ctfs, and you want to learn and get involved, you can [Join us](/joinus).
 
@@ -23,7 +28,6 @@ If you are interested in security, ctfs, and you want to learn and get involved,
 
 Thank you all!
  
-<br />
 <br />
 
 --
